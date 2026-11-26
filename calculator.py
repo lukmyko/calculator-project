@@ -1,4 +1,5 @@
-#
+def nothing():
+    pass
 def add(a, b):
     """Додавання двох чисел"""
     return a + b
